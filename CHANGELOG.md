@@ -2,7 +2,17 @@
 All notable changes will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
+
+## [19.69] - 2021-12-12
+### Added
+- New Char bfholdinggf (made by jerpez)
+- Icons for the new char
+- Updated The Psych Engine From 0.4.1 to 0.4.2
+- Added JerPez On the Credits
+- Added New 5uaty Icons On the Credits
+- Added a New Website On My Credit
+- Added JerPez's Gamebanana Member Page
 
 ## [Unreleased]
 ### Changed
